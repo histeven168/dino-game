@@ -40,5 +40,5 @@ npm run dev
 pnpm dev
 ```
 
-### 5. Open [http://localhost](http://localhost) with your browser to see it.
+### 5. Open [localhost](localhost) with your browser to see it.
 ![favicon.png](https://dinogame.onl/favicon.png)
