@@ -42,9 +42,3 @@ pnpm dev
 
 ### 5. Open [http://localhost](http://localhost) with your browser to see it.
 ![favicon.png](https://dinogame.onl/favicon.png)
-
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=histeven168/dino-game&type=Date)](https://star-history.com/#histeven168/dino-game&Date)
