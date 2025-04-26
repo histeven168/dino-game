@@ -1,7 +1,7 @@
 # dino-game online
 **Dino Game online** is an all-in-one online platform where you can play the classic Google Chrome dinosaur game anytime, anywhere. Enjoy the addictive, endless runner experience directly in your browser—no downloads or installations needed. With simple controls and fast-paced action, Dino Game brings back the fun of dodging cacti and pterodactyls while offline or just looking for a quick gaming break. Jump, duck, and run as far as you can to beat your high score!
 
-👉 [DinoGame](https://dinogame.onl) | [English]([[https://github.com/outwebfeng/text-format/blob/main/README.md](https://github.com/histeven168/dino-game/edit/main/README.md)](https://github.com/histeven168/dino-game/edit/main/README.md))
+👉 [DinoGame](https://dinogame.onl) | [English]([[https://github.com/histeven168/dino-game/blob/main/README.md](https://github.com/histeven168/dino-game/edit/main/README.md)](https://github.com/histeven168/dino-game/edit/main/README.md))
 
 
 ## Quick Started
